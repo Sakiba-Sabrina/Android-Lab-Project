@@ -1,7 +1,7 @@
 DOCAPP
 ======
 
-This Android app was built during AngelHack Dubai.
+This Android app was built for NSU CSE Android Lab Project.
 
 The main aim of the app was to make it easier to connect Patients and Doctors.
 
